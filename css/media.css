@@ -1,0 +1,14 @@
+/*start media query here*/
+
+@media (max-width: 767px) { 
+    .terms{ padding: 41px 9px;}
+    .signup_form button{right: 9%;}
+    .navbar-brand.visible-xs-block{margin-right: 253px; margin-top: -45px;}
+    .logo{text-align: center;}
+}
+@media (min-width: 768px and (max-width: 991px) {
+     }
+@media (min-width:992px) and (max-width: 1199px) {
+}
+@media (min-width:1200px) {
+}
